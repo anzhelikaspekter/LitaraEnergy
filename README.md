@@ -1,4 +1,4 @@
-# Litara Energy — Corporate Website (Front-End Development)
+# Litara Energy — Corporate Website
 
 Production corporate website developed and implemented as a real client project, covering the full front-end layer from layout to deployment.
 
